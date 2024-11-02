@@ -1,0 +1,10 @@
+site_name: Insurance Premium Docs
+nav:
+  - Home: index.md
+  - About: getting-started.md
+theme: readthedocs
+# theme: material
+  # name: material
+markdown_extensions:
+  - attr_list
+  - md_in_html

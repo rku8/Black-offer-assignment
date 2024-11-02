@@ -1,0 +1,12 @@
+black
+colorama
+mkdocs
+pandas
+numpy
+openpyxl
+beautifulsoup4
+requests
+nltk
+syllapy
+
+-e .
